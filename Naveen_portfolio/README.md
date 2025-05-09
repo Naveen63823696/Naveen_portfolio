@@ -10,7 +10,7 @@
 
 <center>
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
+
 [![forthebadge](![Screenshot 2025-05-09 190027](https://github.com/user-attachments/assets/eb14c1e5-1e15-4914-a6be-401942288210)
 )](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
