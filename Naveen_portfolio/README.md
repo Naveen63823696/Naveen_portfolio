@@ -11,8 +11,7 @@
 <center>
 
 
-[![forthebadge](![Screenshot 2025-05-09 190027](https://github.com/user-attachments/assets/eb14c1e5-1e15-4914-a6be-401942288210)
-)](https://forthebadge.com) &nbsp;
+
 
 </center>
 
