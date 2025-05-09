@@ -3,7 +3,7 @@
   <a href="https://soumyajit.vercel.app/" target="_blank">Naveen.tech</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="Uploading Screenshot 2025-05-09 190027.png
+  <img alt="Demo" src="C:\Users\navee\OneDrive\Pictures\Screenshots\Screenshot 2025-05-09 190027.png
 " />
 </div>
 
