@@ -3,7 +3,8 @@
   <a href="https://soumyajit.vercel.app/" target="_blank">Naveen.tech</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="![Uploading Screenshot 2025-05-09 190027.png…]()
+" />
 </div>
 
 <br/>
@@ -13,14 +14,7 @@
 
 
 
-</center>
 
-<h3 align="center">
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
-</h3>
 
 ## TL;DR
 
