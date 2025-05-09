@@ -13,9 +13,6 @@
 
 [![forthebadge](![Screenshot 2025-05-09 190027](https://github.com/user-attachments/assets/eb14c1e5-1e15-4914-a6be-401942288210)
 )](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
 
 </center>
 
